@@ -1,16 +1,16 @@
 # Hi, fellow Java & Spring lovers 👋
 
-<!-- ![An illustration showing a space kitty dreaming of exploring new worlds with Mondoo](https://raw.githubusercontent.com/mondoohq/.github/master/profile/static/mondoo-github-banner.png)
+<!-- ![An illustration showing a space kitty dreaming of exploring new worlds with Arakoo](https://raw.githubusercontent.com/Arakoohq/.github/master/profile/static/Arakoo-github-banner.png)
  -->
 **We’re extremely excited that you landed on our GitHub page!**
 <!-- 
 ### Check out our new Open Source projects
 
-🐈 [cnquery](https://github.com/mondoohq/cnquery) is a cloud-native tool for querying your entire fleet.
+🐈 [cnquery](https://github.com/Arakoohq/cnquery) is a cloud-native tool for querying your entire fleet.
 
-🐈‍⬛ [cnspec](https://github.com/mondoohq/cnspec) is a cloud-native solution to assess the security and compliance of your business-critical infrastructure.
+🐈‍⬛ [cnspec](https://github.com/Arakoohq/cnspec) is a cloud-native solution to assess the security and compliance of your business-critical infrastructure.
 
-### What does Mondoo help you do? 😀
+### What does Arakoo help you do? 😀
 
 🏗 Build security into the development process from the start
 
@@ -20,9 +20,9 @@
 
 🧰 Avoid tool sprawl
 
-### Wait, who is Mondoo? 🤔
+### Wait, who is Arakoo? 🤔
 
-Mondoo was founded in 2020 by DevOps and security experts who previously founded InSpec, devsec.io, and OpenStack.
+Arakoo was founded in 2020 by DevOps and security experts who previously founded InSpec, devsec.io, and OpenStack.
 
 What we believe:
 
@@ -32,17 +32,17 @@ What we believe:
 
 - Security needs to be seen as beneficial, not burdensome
 
-We built Mondoo so that DevOps and Security practitioners can work together to automate their security and compliance for all types of infrastructure with a single, easy-to-use platform featuring: 👉 Policy as Code 👈
+We built Arakoo so that DevOps and Security practitioners can work together to automate their security and compliance for all types of infrastructure with a single, easy-to-use platform featuring: 👉 Policy as Code 👈
 
 ### Give us a spin 👍
 
-Try Mondoo for free before you make any commitment! No sales pitch or demo required – it’s hands on from the start. Start improving your security posture now, in minutes instead of months.
+Try Arakoo for free before you make any commitment! No sales pitch or demo required – it’s hands on from the start. Start improving your security posture now, in minutes instead of months.
 
-❇️ Get started with Mondoo for free: https://console.mondoo.com/signup
+❇️ Get started with Arakoo for free: https://console.Arakoo.com/signup
 
-🧑‍💻 Learn how it works: https://mondoo.com/docs/
+🧑‍💻 Learn how it works: https://Arakoo.com/docs/
 
-🧑‍🏫 Learn more about Policy as Code: https://mondoo.com/policy-as-code/
+🧑‍🏫 Learn more about Policy as Code: https://Arakoo.com/policy-as-code/
 
-🕵️ Explore the Mondoo platform: https://mondoo.com/platform/
+🕵️ Explore the Arakoo platform: https://Arakoo.com/platform/
  -->
