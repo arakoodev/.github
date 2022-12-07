@@ -1,4 +1,4 @@
-The Arakoo Community is a global community of DevOps and security practitioners who collaborate to share knowledge on solving the challenges of integrating security automation into every phase of the software development lifecycle, from build-time to runtime.
+The Arakoo Community is a global community of DevOps and Java practitioners who collaborate to share knowledge on solving the challenges of integrating Java into every phase of the software development lifecycle, from build-time to runtime.
 
 ### We thrive on diversity
 
@@ -100,7 +100,7 @@ Any physical violence or intimidation, threatened or acted on, is a serious offe
 
 There are two defined roles within the Arakoo Community:
 
-- **Community Ambassadors** - Community Ambassadors are designated Arakoo employees that actively participate within the Arakoo Community to welcome all participants on behalf of Arakoo, and who work to ensure community guidelines and the code of conduct are followed by all.
+- **Community Ambassadors** - Community Ambassadors are designated Arakoo representatives that actively participate within the Arakoo Community to welcome all participants on behalf of Arakoo, and who work to ensure community guidelines and the code of conduct are followed by all.
 
 - **Community Members** - A Community Member is anyone who participates with the community whether in-person or via online channels, which also includes Community Ambassadors and Arakoo Employees. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
 
