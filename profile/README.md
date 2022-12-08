@@ -4,7 +4,7 @@
  -->
 **We’re extremely excited that you landed on our GitHub page!**
 
-🧑‍💻 Learn about our code of conduct: https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md
+🧑‍💻 Learn about our code of conduct: https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md  
 📜 Refer to our [Contributor License Agreement](Learn about our code of conduct: https://github.com/arakoodev/.github/blob/main/CLA.md) 
 
 ### Check out our new Open Source projects
