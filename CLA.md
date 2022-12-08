@@ -1,5 +1,7 @@
 # Arakoo INDIVIDUAL CONTRIBUTOR LICENSE AGREEMENT
 
+In order to clarify the intellectual property license granted with Contributions from any person or entity, the Arakoo project ("Arakoo") must have a Contribution License Agreement (CLA) on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of Arakoo source code and its users; it does NOT change your rights to use your own Contributions for any other purpose.
+
 You accept and agree the below terms and conditions of this Contributor License Agreement (this “CLA”) for all current and future Contributions You provide to Arakoo, Inc. (“Arakoo”). This CLA does not change your ability to use your own Contributions. Except as stated herein, you reserve all right, title and interest in Your Contributions.   
 
 1. **Copyright License**. Subject to the terms and conditions of this Agreement, You hereby grant to Arakoo and its affiliates, and to recipients of software distributed by Arakoo or its affiliates, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
