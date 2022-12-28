@@ -1,5 +1,9 @@
 # Hi, fellow Java & Spring lovers 👋
 
+![image](https://user-images.githubusercontent.com/76883/209828894-23e67fee-f28e-4f34-8966-75e7cf794d2c.png)
+
+
+
 <!-- ![An illustration showing a space kitty dreaming of exploring new worlds with Arakoo](https://raw.githubusercontent.com/Arakoohq/.github/master/profile/static/Arakoo-github-banner.png)
  -->
 **We’re extremely excited that you landed on our GitHub page!**
