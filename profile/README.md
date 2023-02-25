@@ -6,18 +6,17 @@
 
 <!-- ![An illustration showing a space kitty dreaming of exploring new worlds with Arakoo](https://raw.githubusercontent.com/Arakoohq/.github/master/profile/static/Arakoo-github-banner.png)
  -->
-**We’re extremely excited that you landed on our GitHub page!**
-
-🧑‍💻 Learn about our code of conduct: https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md  
-📜 Refer to our [Contributor License Agreement](https://github.com/arakoodev/.github/blob/main/CLA.md)   
- ▶ [Play with our starter on Replit](https://replit.com/@arakoodev/starter)
-
+**We’re extremely excited that you landed on our GitHub page!**  
+ 
 ### Check out our new Open Source projects
 
-🐈 [FlySpring](https://github.com/arakoodev/FlySpring) makes Spring far more developer friendly than it ever was. And brings the goodness of serverless and Graal on top!
+🐈 [FlySpring](https://github.com/arakoodev/FlySpring) makes Spring far more developer friendly than it ever was. And brings the goodness of serverless and Graal on top!   
+  ▶ [Play with our starter on Replit](https://replit.com/@arakoodev/starter)
+  
+  
+ 
 
-
-### What does Arakoo help you do? 😀
+### What is Arakoo ? 😀
 
 🏗 Friendlist development process from the start
 
@@ -26,6 +25,10 @@
 ⏳ Save time and friction during dev cycles
 
 🧰 Boss-friendly, job-friendly. Built on top of Spring. We are not building an entire framework from scratch
+
+🧑‍💻 Learn about our code of conduct: https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md  
+
+📜 Refer to our [Contributor License Agreement](https://github.com/arakoodev/.github/blob/main/CLA.md) 
 
 ### Wait, who is Arakoo? 🤔
 
