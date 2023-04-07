@@ -6,7 +6,7 @@
 
 <!-- ![An illustration showing a space kitty dreaming of exploring new worlds with Arakoo](https://raw.githubusercontent.com/Arakoohq/.github/master/profile/static/Arakoo-github-banner.png)
  -->
-**We’re extremely excited that you landed on our GitHub page!**  
+**We’re extremely excited that you landed on our GitHub page!**  Ready to brew some AI ?
  
 ### Check out our new Open Source projects
 
