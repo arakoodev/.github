@@ -1,4 +1,4 @@
-# Hi, fellow Java & Generative AI lovers 👋
+# Hi, fellow Java & Generative AI lovers 👋 Ready to brew some AI ? 🦾
 
 <img src="https://user-images.githubusercontent.com/76883/209828894-23e67fee-f28e-4f34-8966-75e7cf794d2c.png" width="499" height="730">
 
