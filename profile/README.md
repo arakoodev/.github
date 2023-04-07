@@ -10,6 +10,7 @@
  
 ### Check out our new Open Source projects
 
+⛓️[Edgechains](https://github.com/arakoodev/edgechains) gives you the building blocks to deploy generative AI and all its complex algorithms (chain-of-thought) in a few lines of code.
 🐈 [FlySpring](https://github.com/arakoodev/FlySpring) makes Spring far more developer friendly than it ever was. And brings the goodness of serverless and Graal on top!   
   ▶ [Play with our starter on Replit](https://replit.com/@arakoodev/starter)
   
