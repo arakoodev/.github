@@ -34,7 +34,7 @@
 
 🧰 Boss-friendly, job-friendly. Built on top of Spring. We are not building an entire framework from scratch
 
-🧑‍💻 Learn about our code of conduct: https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md  
+🧑‍💻 Learn about our [code of conduct](https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md)
 
 📜 Refer to our [Contributor License Agreement](https://github.com/arakoodev/.github/blob/main/CLA.md) 
 
