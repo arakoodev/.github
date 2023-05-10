@@ -16,7 +16,13 @@
   ▶ [Play with our starter on Replit](https://replit.com/@arakoodev/starter)
   
   
- 
+ ## 🎊 Community
+
+💫💫💫 **we would be very grateful if you could take 5 seconds to star our repository on Github. It helps get the word out to more Java developers & open source committers about FlySpring.** 💫💫💫
+
+- Follow our [Twitter](https://twitter.com/arakoodev)
+- Join  [Discord](https://discord.gg/MtEPK9cnSF) to write code, get help, or to chat with us!!!
+- Make sure to read our [contributing CLA](https://github.com/arakoodev/.github/blob/main/CLA.md).
 
 ### What is Arakoo ? 😀
 
