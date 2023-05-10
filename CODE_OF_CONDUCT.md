@@ -1,4 +1,4 @@
-The Arakoo Community is a global community of DevOps and Java practitioners who collaborate to share knowledge on solving the challenges of integrating Java into every phase of the software development lifecycle, from build-time to runtime.
+The Arakoo Community is a global community of Machine Learning, DevOps and Java practitioners who collaborate to share knowledge on solving the challenges of integrating Java into every phase of the software development lifecycle, from build-time to runtime.
 
 ### We thrive on diversity
 
