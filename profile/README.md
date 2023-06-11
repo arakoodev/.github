@@ -23,6 +23,7 @@
 - Follow our [Twitter](https://twitter.com/arakoodev)
 - Join  [Discord](https://discord.gg/MtEPK9cnSF) to write code, get help, or to chat with us!!!
 - Make sure to read our [contributing CLA](https://github.com/arakoodev/.github/blob/main/CLA.md).
+- Please read our [Copyright & Trademark](https://github.com/arakoodev/.github/blob/main/COPYRIGHT.md) as well as [Code of Conduct](https://github.com/arakoodev/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ### What is Arakoo ? 😀
 
