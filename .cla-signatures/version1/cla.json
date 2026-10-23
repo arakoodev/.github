@@ -1215,6 +1215,14 @@
       "created_at": "2026-10-21T17:59:56Z",
       "repoId": 616309293,
       "pullRequestNo": 697
+    },
+    {
+      "name": "DACHDigitalwerk",
+      "id": 346873645,
+      "comment_id": 6364590121,
+      "created_at": "2026-10-23T12:12:26Z",
+      "repoId": 616309293,
+      "pullRequestNo": 705
     }
   ]
 }
